@@ -1,6 +1,4 @@
-═══════════════════════════════════════════════════════════════ -->
-<!--  NEBULA HERO BANNER  — deep space: #020B18 → #0D1B4B → #1a0a2e  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,30:0D1B4B,65:1a0a2e,100:0a1628&height=300&section=header&text=Praveen%20R%20P&fontSize=68&fontColor=D7BA89&animation=fadeIn&fontAlignY=44&desc=%E2%80%A2%20Full-Stack%20Engineer%20%20%E2%80%A2%20%20AI%20Systems%20Builder%20%20%E2%80%A2%20%20Hackathon%20Athlete%20%E2%80%A2&descAlignY=66&descSize=15&stroke=D7BA89&strokeWidth=1" width="100%"/>
 <div align="center">
 <br/>
