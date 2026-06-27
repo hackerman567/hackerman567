@@ -1,73 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,40:0a1628,70:0d2158,100:1565C0&height=280&section=header&text=Praveen%20R%20P&fontSize=62&fontColor=E3F2FD&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%82%7C%E2%80%82%20AI%20Systems%20Builder%20%E2%80%82%7C%E2%80%82%20Hackathon%20Athlete&descAlignY=65&descSize=16" width="100%"/>
+═══════════════════════════════════════════════════════════════ -->
+<!--  NEBULA HERO BANNER  — deep space: #020B18 → #0D1B4B → #1a0a2e  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,30:0D1B4B,65:1a0a2e,100:0a1628&height=300&section=header&text=Praveen%20R%20P&fontSize=68&fontColor=D7BA89&animation=fadeIn&fontAlignY=44&desc=%E2%80%A2%20Full-Stack%20Engineer%20%20%E2%80%A2%20%20AI%20Systems%20Builder%20%20%E2%80%A2%20%20Hackathon%20Athlete%20%E2%80%A2&descAlignY=66&descSize=15&stroke=D7BA89&strokeWidth=1" width="100%"/>
 <div align="center">
 <br/>
-<!-- Cinematic greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=800&color=4FC3F7&background=00000000&center=true&vCenter=true&multiline=false&width=820&height=50&lines=Hey+there+%F0%9F%91%8B+I%27m+Praveen+%E2%80%94+I+build+things+that+matter.;Full-Stack+%2B+AI+%2B+Cloud+%7C+React+·+Node+·+Flutter+·+FastAPI;🏆+Top+Performer+%40+IIT+Hyderabad+%C2%B7+NIT+Delhi+%C2%B7+BITS+Pilani;🔬+IEEE+Researcher+%7C+Graph+Algorithms+meets+SEM+Imaging;⚡+%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG" />
+<!-- Gold name glow line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=999999&color=D7BA89&center=true&vCenter=true&width=500&height=20&lines=───────────────────────────────────────────────" alt="divider"/>
+<br/>
+<!-- Nebula typing lines — cyan glow on dark -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=820&height=52&lines=✦+Hey+%E2%80%94+I+build+things+that+think+and+scale.;⚡+React+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Cloud;🏆+Hackathon+Finalist+%7C+IIT+%C2%B7+NIT+Delhi+%C2%B7+BITS+Pilani;🔬+IEEE+Researcher+%7C+Graph+Algorithms+%2B+Image+Analysis;✦+%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=999999&color=D7BA89&center=true&vCenter=true&width=500&height=20&lines=───────────────────────────────────────────────" alt="divider"/>
 <br/><br/>
 
-<!-- Glowing status pills -->
-<img src="https://img.shields.io/badge/🚀%20STATUS-Open%20to%20Internships-0d2158?style=for-the-badge&labelColor=020818&color=1565C0" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📍%20LOCATION-Coimbatore%2C%20India-0d2158?style=for-the-badge&labelColor=020818&color=0d47a1" />
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=PraveenRP2024&color=1565C0&style=for-the-badge&label=👁️%20PROFILE%20VIEWS" />
+<!-- Status pills — gold + cyan on near-black -->
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=for-the-badge&labelColor=020B18&color=0D1B4B&logoColor=D7BA89" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASE-Coimbatore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-00D4FF?style=for-the-badge&labelColor=020B18&color=0a1628" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=PraveenRP2024&color=0D1B4B&style=for-the-badge&label=VISITORS&labelColor=020B18" />
 <br/><br/>
 
-<!-- Animated snake or wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<!-- Animated nebula-vibe wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 <br/>
-<!-- About Me — cinematic split layout -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- ═══════════════════════════════════════════════ -->
+<!--  WHO AM I  — terminal split, nebula palette     -->
+<!-- ═══════════════════════════════════════════════ -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="55%" valign="top">
-> whoami
+<td width="54%" valign="top">
+<h3><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&pause=999999&color=D7BA89&width=160&height=24&lines=%3E+whoami" /></h3>
+js// ── IDENTITY ─────────────────────────────────
+const PRAVEEN = {
+  name     : "Praveen R P",
+  role     : "Full-Stack + AI Developer",
+  college  : "PSG College of Technology",
+  degree   : "B.E. CSE  |  Pre-Final Year",
+  location : "Coimbatore, Tamil Nadu 🇮🇳",
 
-javascript{
-  "name"    : "Praveen R P",
-  "role"    : "Full-Stack + AI Developer",
-  "college" : "PSG College of Technology",
-  "degree"  : "B.E. CSE — Pre-Final Year",
-  "base"    : "Coimbatore, Tamil Nadu 🇮🇳",
-
-  "building_now" : [
-    "🔍 EthicalEye — AI Chrome Extension",
-    "⚡ Phantom Energy Leak Detector",
-    "🌫️ Air Quality CNN-LSTM Model"
+// ── CURRENTLY BUILDING ───────────────────────
+  shipping : [
+    "🔍  EthicalEye  — AI Dark-Pattern Detector",
+    "⚡  Phantom Energy Leak Detection System",
+    "🌫️  Air Quality Platform  (CNN-LSTM)",
   ],
 
-  "levelling_up" : [
-    "Advanced DSA & System Design",
+// ── LEVELLING UP ─────────────────────────────
+  grinding : [
+    "Advanced DSA  +  System Design",
     "AWS Solutions Architect",
-    "RAG Pipelines & LLM Integration"
+    "RAG Pipelines  +  LLM Integration",
   ],
 
-  "hackathon_mode" : true,  // perpetually 🔥
-  "fun_fact" : "Shipped 3 full-stack apps
-                before most people pick a font",
+  hackathon_mode : true,  // ← always 🔥
+  coffee_driven  : true,  // ← obviously ☕
 
-  "motto" : "Ship it. Then make it elegant."
-}
+  motto : "Ship it. Then make it elegant.",
+};
 
 </td>
-<td width="5%"></td>
-<td width="40%" valign="middle" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+<td width="4%"></td>
+<td width="42%" valign="middle" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310"/>
+<br/><br/>
+
+<!-- Achievement pills — gold accent on deep navy -->
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-D7BA89?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=020B18"/>
 <br/>
-<!-- Quick-fire stats pills -->
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-1565C0?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=020818"/>
+<img src="https://img.shields.io/badge/Hackathons-IIT%20%C2%B7%20NIT%20%C2%B7%20BITS-00D4FF?style=flat-square&logo=firefoxbrowser&logoColor=00D4FF&labelColor=020B18"/>
 <br/>
-<img src="https://img.shields.io/badge/Hackathons-IIT%20·%20NIT%20·%20BITS-0d47a1?style=flat-square&logo=trophy&logoColor=FFD700&labelColor=020818"/>
+<img src="https://img.shields.io/badge/Research-IEEE%20Standard-D7BA89?style=flat-square&logo=ieee&logoColor=D7BA89&labelColor=020B18"/>
 <br/>
-<img src="https://img.shields.io/badge/Research-IEEE%20Standard-1a237e?style=flat-square&logo=ieee&logoColor=00B4D8&labelColor=020818"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20%C2%B7%20GCP%20%C2%B7%20Azure-00D4FF?style=flat-square&logo=icloud&logoColor=00D4FF&labelColor=020B18"/>
 <br/>
-<img src="https://img.shields.io/badge/Cloud-AWS%20·%20GCP%20·%20Azure-0d2158?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=020818"/>
+<img src="https://img.shields.io/badge/Winner-TN%20Govt%20Elocution%202025-D7BA89?style=flat-square&logo=medal&logoColor=D7BA89&labelColor=020B18"/>
 </td>
 </tr>
 </table>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
+<br/>
 
 ---
 
