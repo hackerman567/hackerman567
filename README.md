@@ -1,55 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Praveen%20R%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engineering%20intelligent%20systems%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=62&descSize=17" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,40:0a1628,70:0d2158,100:1565C0&height=280&section=header&text=Praveen%20R%20P&fontSize=62&fontColor=E3F2FD&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%82%7C%E2%80%82%20AI%20Systems%20Builder%20%E2%80%82%7C%E2%80%82%20Hackathon%20Athlete&descAlignY=65&descSize=16" width="100%"/>
 <div align="center">
+<br/>
+<!-- Cinematic greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=800&color=4FC3F7&background=00000000&center=true&vCenter=true&multiline=false&width=820&height=50&lines=Hey+there+%F0%9F%91%8B+I%27m+Praveen+%E2%80%94+I+build+things+that+matter.;Full-Stack+%2B+AI+%2B+Cloud+%7C+React+·+Node+·+Flutter+·+FastAPI;🏆+Top+Performer+%40+IIT+Hyderabad+%C2%B7+NIT+Delhi+%C2%B7+BITS+Pilani;🔬+IEEE+Researcher+%7C+Graph+Algorithms+meets+SEM+Imaging;⚡+%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG" />
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%7C+AI+Integrations;Building+things+that+think+%F0%9F%A7%A0;React+%2B+Node.js+%2B+Cloud+%7C+Open+to+Opportunities;Turning+caffeine+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
+<!-- Glowing status pills -->
+<img src="https://img.shields.io/badge/🚀%20STATUS-Open%20to%20Internships-0d2158?style=for-the-badge&labelColor=020818&color=1565C0" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📍%20LOCATION-Coimbatore%2C%20India-0d2158?style=for-the-badge&labelColor=020818&color=0d47a1" />
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=PraveenRP2024&color=1565C0&style=for-the-badge&label=👁️%20PROFILE%20VIEWS" />
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PraveenRP2024&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/PraveenRP2024)
-[![GitHub followers](https://img.shields.io/github/followers/PraveenRP2024?style=flat-square&color=bf91f3&logo=github)](https://github.com/PraveenRP2024)
-
+<!-- Animated snake or wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
+<br/>
+<!-- About Me — cinematic split layout -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+> whoami
 
----
+javascript{
+  "name"    : "Praveen R P",
+  "role"    : "Full-Stack + AI Developer",
+  "college" : "PSG College of Technology",
+  "degree"  : "B.E. CSE — Pre-Final Year",
+  "base"    : "Coimbatore, Tamil Nadu 🇮🇳",
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> About Me
+  "building_now" : [
+    "🔍 EthicalEye — AI Chrome Extension",
+    "⚡ Phantom Energy Leak Detector",
+    "🌫️ Air Quality CNN-LSTM Model"
+  ],
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+  "levelling_up" : [
+    "Advanced DSA & System Design",
+    "AWS Solutions Architect",
+    "RAG Pipelines & LLM Integration"
+  ],
 
-```python
-class Praveen:
-    def __init__(self):
-        self.name        = "Praveen R P"
-        self.location    = "Coimbatore, Tamil Nadu 🇮🇳"
-        self.degree      = "B.E. CSE @ PSG College of Technology"
-        self.year        = "Pre-Final Year (2024–Present)"
+  "hackathon_mode" : true,  // perpetually 🔥
+  "fun_fact" : "Shipped 3 full-stack apps
+                before most people pick a font",
 
-        self.stack = [
-            "React.js", "Node.js", "Express.js",
-            "Flutter", "FastAPI", "PostgreSQL",
-            "Docker", "AWS", "GCP"
-        ]
+  "motto" : "Ship it. Then make it elegant."
+}
 
-        self.currently_learning = [
-            "Advanced DSA & Competitive Programming",
-            "Cloud-Native Architecture (AWS Solutions Architect)",
-            "ML Pipelines & RAG Systems",
-            "Java (Deep Dive)"
-        ]
-
-        self.currently_building = [
-            "EthicalEye — AI dark-pattern Chrome extension",
-            "Phantom Energy Leak Detection System",
-            "Air Quality Analysis Platform (CNN-LSTM)"
-        ]
-
-        self.fun_fact = "I've shipped hackathon projects faster than\n" \
-                        "most people finish setting up their dev environment 🚀"
-
-    def motto(self) -> str:
-        return "Build fast. Think deep. Ship clean."
-```
-
-<br clear="right"/>
+</td>
+<td width="5%"></td>
+<td width="40%" valign="middle" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+<br/>
+<!-- Quick-fire stats pills -->
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-1565C0?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=020818"/>
+<br/>
+<img src="https://img.shields.io/badge/Hackathons-IIT%20·%20NIT%20·%20BITS-0d47a1?style=flat-square&logo=trophy&logoColor=FFD700&labelColor=020818"/>
+<br/>
+<img src="https://img.shields.io/badge/Research-IEEE%20Standard-1a237e?style=flat-square&logo=ieee&logoColor=00B4D8&labelColor=020818"/>
+<br/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20·%20GCP%20·%20Azure-0d2158?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=020818"/>
+</td>
+</tr>
+</table>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
 
 ---
 
