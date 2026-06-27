@@ -4,7 +4,7 @@
 <br/><br/>
 
 <!-- TYPING — gold, professional lines only -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=D7BA89&center=true&vCenter=true&width=760&height=45&lines=Building+AI-powered+products+from+scratch;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Cloud;Top+Performer+%E2%80%94+IIT+Hyderabad+%C2%B7+NIT+Delhi+%C2%B7+BITS+Pilani;IEEE+Researcher+%7C+Graph+Algorithms+%2B+Image+Analysis;%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=D7BA89&center=true&vCenter=true&width=760&height=45&lines=Building+AI-powered+products+from+scratch;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Graph+Algorithms+%2B+Image+Analysis;%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG"/>
 <br/><br/>
 
 <!-- STATUS PILLS — minimal, dark, no emojis in label -->
@@ -24,32 +24,14 @@
 <tr>
 <td width="56%" valign="top">
 > whoami
-
-js// ╔═══════════════════════════════════════════╗
-// ║         PRAVEEN R P  ·  v2025.06          ║
-// ╚═══════════════════════════════════════════╝
-
+  
 const PRAVEEN = {
 
   name       : "Praveen R P",
   role       : "Full-Stack + AI Developer",
-  college    : "PSG College of Technology",
   degree     : "B.E. CSE  ·  Pre-Final Year",
   location   : "Coimbatore, Tamil Nadu  🇮🇳",
   status     : "Open to Internships  🤝",
-
-  shipping   : [
-    "EthicalEye      — AI Dark-Pattern Detector",
-    "PhantomEnergy   — Real-Time Leak Monitor",
-    "AirQualityNet   — CNN-LSTM Platform",
-  ],
-
-  learning   : [
-    "Advanced DSA + System Design",
-    "AWS Solutions Architect",
-    "RAG Pipelines + LLM Integration",
-  ],
-
   motto : () => "Ship it.  Then make it elegant.",
 
 };
@@ -62,13 +44,6 @@ const PRAVEEN = {
 
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-D7BA89?style=flat-square&labelColor=020610"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Hackathons-IIT%20%C2%B7%20NIT%20Delhi%20%C2%B7%20BITS%20Pilani-8ab4f8?style=flat-square&labelColor=020610"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Research-IEEE%20Standard%20Publication-D7BA89?style=flat-square&labelColor=020610"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Cloud-AWS%20%C2%B7%20GCP%20%C2%B7%20Azure-8ab4f8?style=flat-square&labelColor=020610"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Winner-TN%20Govt%20Elocution%202025-D7BA89?style=flat-square&labelColor=020610"/>
 </td>
 </tr>
 </table>
