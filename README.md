@@ -114,9 +114,9 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[EthicalEye](https://github.com/PraveenRP2024)** 🔍 | React 18 · Vite · Tailwind · Node.js · Gemini AI · Vercel Serverless · Manifest V3 | Production-ready Chrome extension for real-time AI dark-pattern detection. Serverless Vercel backend with secure API credential proxying and stateless REST contracts for horizontal scalability. |
-| **[Phantom Energy Leak Detector](https://github.com/PraveenRP2024)** ⚡ | Node.js · ES6+ · REST APIs · Chart.js · Cloud-Ready Architecture | Real-time AI energy monitoring platform detecting phantom load anomalies in commercial infrastructure. Cloud-native, environment-agnostic design — deployable across AWS, GCP, and Azure. |
-| **[Tamil Nadu RTO Portal](https://github.com/PraveenRP2024)** 🚗 | Flutter · FastAPI · SQLAlchemy · SQLite · REST APIs | Full-stack digital platform managing 14+ RTO services. Robust relational schema, real-time appointment scheduling, and decoupled service layers for multi-cloud deployment. |
+| **[EthicalEye](https://github.com/hackerman567)** 🔍 | React 18 · Vite · Tailwind · Node.js · Gemini AI · Vercel Serverless · Manifest V3 | Production-ready Chrome extension for real-time AI dark-pattern detection. Serverless Vercel backend with secure API credential proxying and stateless REST contracts for horizontal scalability. |
+| **[Phantom Energy Leak Detector](https://github.com/hackerman567)** ⚡ | Node.js · ES6+ · REST APIs · Chart.js · Cloud-Ready Architecture | Real-time AI energy monitoring platform detecting phantom load anomalies in commercial infrastructure. Cloud-native, environment-agnostic design — deployable across AWS, GCP, and Azure. |
+| **[Tamil Nadu RTO Portal](https://github.com/hackerman567)** 🚗 | Flutter · FastAPI · SQLAlchemy · SQLite · REST APIs | Full-stack digital platform managing 14+ RTO services. Robust relational schema, real-time appointment scheduling, and decoupled service layers for multi-cloud deployment. |
 
 </div>
 
@@ -155,7 +155,6 @@
 
 [![Email](https://img.shields.io/badge/Email-24z254@psgtech.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:24z254@psgtech.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-hackerman567-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hackerman567)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juvenprav06)
 
 > *"The best code is the code that solves a real problem elegantly — and ships."*
 
