@@ -1,86 +1,105 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--   NEBULA HERO  —  dark navy + royal gold                     -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,30:0D1B4B,65:1a0a2e,100:0a1628&height=300&section=header&text=Praveen%20R%20P&fontSize=68&fontColor=D7BA89&animation=fadeIn&fontAlignY=44&desc=%E2%80%A2%20Full-Stack%20Engineer%20%20%E2%80%A2%20%20AI%20Systems%20Builder%20%20%E2%80%A2%20%20Hackathon%20Athlete%20%E2%80%A2&descAlignY=66&descSize=15&stroke=D7BA89&strokeWidth=1" width="100%"/>
 <div align="center">
+
+<a href="https://github.com/hackerman567">
+<picture>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020610,25:050d2e,55:0b1a5e,80:12215c,100:0a0f2c&height=320&section=header&text=Praveen%20R%20P&fontSize=72&fontColor=D7BA89&animation=fadeIn&fontAlignY=46&desc=%E2%9C%A6%20%20Full-Stack%20Engineer%20%20%E2%80%A2%20%20AI%20Systems%20Builder%20%20%E2%80%A2%20%20Hackathon%20Athlete%20%20%E2%9C%A6&descAlignY=67&descSize=16&stroke=C9A96E&strokeWidth=2"
+    width="100%"
+    alt="Praveen R P"
+  />
+</picture>
+</a>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+
 <br/>
-<!-- Gold name glow line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=999999&color=D7BA89&center=true&vCenter=true&width=500&height=20&lines=───────────────────────────────────────────────" alt="divider"/>
-<br/>
-<!-- Nebula typing lines — cyan glow on dark -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=820&height=52&lines=✦+Hey+%E2%80%94+I+build+things+that+think+and+scale.;⚡+React+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Cloud;🏆+Hackathon+Finalist+%7C+IIT+%C2%B7+NIT+Delhi+%C2%B7+BITS+Pilani;🔬+IEEE+Researcher+%7C+Graph+Algorithms+%2B+Image+Analysis;✦+%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=999999&color=D7BA89&center=true&vCenter=true&width=500&height=20&lines=───────────────────────────────────────────────" alt="divider"/>
+
+<a href="https://github.com/hackerman567">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=1000&color=C9A96E&center=true&vCenter=true&width=800&height=55&lines=%E2%9C%A6+I+craft+software+that+thinks+%26+scales;%E2%9A%A1+React+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Cloud;%F0%9F%8F%86+Top+Performer+%7C+IIT+%C2%B7+NIT+Delhi+%C2%B7+BITS+Pilani;%F0%9F%94%AC+IEEE+Researcher+%7C+Graph+Algorithms+%2B+Image+Analysis;%E2%9C%A6+%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG" />
+</a>
+
 <br/><br/>
 
-<!-- Status pills — gold + cyan on near-black -->
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=for-the-badge&labelColor=020B18&color=0D1B4B&logoColor=D7BA89" />
-&nbsp;
-<img src="https://img.shields.io/badge/BASE-Coimbatore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-00D4FF?style=for-the-badge&labelColor=020B18&color=0a1628" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=PraveenRP2024&color=0D1B4B&style=for-the-badge&label=VISITORS&labelColor=020B18" />
+<img src="https://img.shields.io/badge/%E2%9C%A6%20STATUS-Open%20to%20Internships-C9A96E?style=for-the-badge&labelColor=020610&color=050d2e"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20BASE-Coimbatore%2C%20India-8ab4f8?style=for-the-badge&labelColor=020610&color=0b1a5e"/>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=050d2e&style=for-the-badge&label=%F0%9F%91%81%20VISITORS&labelColor=020610"/>
+
 <br/><br/>
 
-<!-- Animated nebula-vibe wave divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 </div>
+
 <br/>
-<!-- ═══════════════════════════════════════════════ -->
-<!--  WHO AM I  — terminal split, nebula palette     -->
-<!-- ═══════════════════════════════════════════════ -->
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td width="54%" valign="top">
-<h3><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&pause=999999&color=D7BA89&width=160&height=24&lines=%3E+whoami" /></h3>
-js// ── IDENTITY ─────────────────────────────────
+<td width="55%" valign="top">
+
+### <img src="https://img.shields.io/badge/%E2%9C%A6-whoami-C9A96E?style=flat-square&labelColor=020610" />
+
+```js
+// ╔══════════════════════════════════════════╗
+// ║           PRAVEEN R P  ·  v2025          ║
+// ╚══════════════════════════════════════════╝
+
 const PRAVEEN = {
-  name     : "Praveen R P",
-  role     : "Full-Stack + AI Developer",
-  college  : "PSG College of Technology",
-  degree   : "B.E. CSE  |  Pre-Final Year",
-  location : "Coimbatore, Tamil Nadu 🇮🇳",
 
-// ── CURRENTLY BUILDING ───────────────────────
-  shipping : [
-    "🔍  EthicalEye  — AI Dark-Pattern Detector",
-    "⚡  Phantom Energy Leak Detection System",
-    "🌫️  Air Quality Platform  (CNN-LSTM)",
+  identity : {
+    name     : "Praveen R P",
+    role     : "Full-Stack + AI Developer",
+    degree   : "B.E. CSE  ·  Pre-Final Year",
+  },
+
+  currently_shipping : [
+    "🔍  EthicalEye       — AI Dark-Pattern Detector",
+    "⚡  PhantomEnergy    — Real-Time Leak Monitor",
+    "🌫️  AirQualityNet   — CNN-LSTM Platform",
   ],
 
-// ── LEVELLING UP ─────────────────────────────
-  grinding : [
-    "Advanced DSA  +  System Design",
-    "AWS Solutions Architect",
-    "RAG Pipelines  +  LLM Integration",
-  ],
+  hackathon_mode : true,   // perpetually 🔥
+  coffee_driven  : true,   // obviously ☕
+  open_to_work   : true,   // absolutely 🤝
 
-  hackathon_mode : true,  // ← always 🔥
-  coffee_driven  : true,  // ← obviously ☕
-
-  motto : "Ship it. Then make it elegant.",
+  motto : () => "Ship it.  Then make it elegant.",
 };
+```
 
 </td>
-<td width="4%"></td>
+<td width="3%"></td>
 <td width="42%" valign="middle" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+
 <br/><br/>
 
-<!-- Achievement pills — gold accent on deep navy -->
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-D7BA89?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=020B18"/>
-<br/>
-<img src="https://img.shields.io/badge/Hackathons-IIT%20%C2%B7%20NIT%20%C2%B7%20BITS-00D4FF?style=flat-square&logo=firefoxbrowser&logoColor=00D4FF&labelColor=020B18"/>
-<br/>
-<img src="https://img.shields.io/badge/Research-IEEE%20Standard-D7BA89?style=flat-square&logo=ieee&logoColor=D7BA89&labelColor=020B18"/>
-<br/>
-<img src="https://img.shields.io/badge/Cloud-AWS%20%C2%B7%20GCP%20%C2%B7%20Azure-00D4FF?style=flat-square&logo=icloud&logoColor=00D4FF&labelColor=020B18"/>
-<br/>
-<img src="https://img.shields.io/badge/Winner-TN%20Govt%20Elocution%202025-D7BA89?style=flat-square&logo=medal&logoColor=D7BA89&labelColor=020B18"/>
+<img src="https://img.shields.io/badge/⚔️%20LeetCode-100%2B%20Problems%20Solved-C9A96E?style=flat-square&labelColor=020610"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🏆%20Hackathons-IIT%20Hyd%20·%20NIT%20Delhi%20·%20BITS-8ab4f8?style=flat-square&labelColor=020610"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🔬%20Research-IEEE%20Standard%20Publication-C9A96E?style=flat-square&labelColor=020610"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/☁️%20Cloud-AWS%20·%20GCP%20·%20Azure%20Ready-8ab4f8?style=flat-square&labelColor=020610"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🥇%20Winner-TN%20Govt%20Elocution%202025-C9A96E?style=flat-square&labelColor=020610"/>
+
 </td>
 </tr>
 </table>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
+
 <br/>
+
+---
 
 ---
 
