@@ -129,12 +129,10 @@
 
 | 🏆 | Achievement | Details |
 |---|---|---|
-| 🥇 | **HackIndia Spark 6 — NIT Delhi** | Top Performer; built and deployed full-stack solution under competitive constraints |
+| 🥇 | **HackIndia Spark 6-NIT Delhi** | Top Performer; built and deployed full-stack solution under competitive constraints |
 | 🤖 | **Economic Times AI Hackathon 2026** | AI-powered prototype evaluated for commercial viability |
-| ⚙️ | **National AIML Hackathon — IIT Hyderabad** | Built end-to-end ML pipeline with real-time data feeds in a 24-hour sprint |
-| 🎲 | **Gambling Mathematics Competition — BITS Pilani** | Applied combinatorics and probability in an algorithmic problem-solving challenge |
-| 🎤 | **Tamil Nadu Govt. Elocution Competition 2025** | **Winner** — demonstrated analytical reasoning and communication excellence |
-| 💻 | **LeetCode** | 100+ problems solved across DSA domains |
+| ⚙️ | **National AIML Hackathon-IIT Hyderabad** | Built end-to-end ML pipeline with real-time data feeds in a 24-hour sprint |
+| 🎲 | **Gambling Mathematics Competition-BITS Pilani** | Applied combinatorics and probability in an algorithmic problem-solving challenge |
 </div>
 
 ---
