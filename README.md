@@ -4,15 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=D7BA89&center=true&vCenter=true&width=700&height=40&lines=Building+AI-powered+products+from+scratch;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Cloud;IEEE+Researcher+%7C+Graph+Algorithms+%2B+Image+Analysis;%22Build+fast.+Think+deep.+Ship+clean.%22"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=3D6FFF&center=true&vCenter=true&width=750&height=40&lines=Data+Structures+%26+Algorithms+%7C+100%2B+LeetCode;Scalable+Systems+%7C+REST+APIs+%7C+AWS+Cloud;Full-Stack%3A+React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+FastAPI;OOP+%7C+Python+%7C+C%2B%2B+%7C+Java+%28Learning%29;%22Build+fast.+Think+deep.+Ship+clean.%22"/>
 <br/>
 
 ![](https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=flat-square&labelColor=020610&color=050d2e)
 &nbsp;
-![](https://img.shields.io/badge/LOCATION-Coimbatore%2C%20India-8ab4f8?style=flat-square&labelColor=020610&color=0b1a5e)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=050d2e&style=flat-square&label=PROFILE+VIEWS&labelColor=020610)
+
+![](https://komarev.com/ghpvc/?username=hackerman567&color=050d2e&style=flat-square&label=PROFILE+VIEWS&labelColor=020610)
 &nbsp;
 ![](https://img.shields.io/badge/LeetCode-100%2B%20Solved-D7BA89?style=flat-square&labelColor=020610)
 
