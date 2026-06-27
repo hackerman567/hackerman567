@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020610,100:050d2e&height=200&text=Praveen%20R%20P&fontSize=72&fontColor=D7BA89&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%20%7C%20%20AI%20Systems%20Builder%20%20%7C%20%20Hackathon%20Athlete&descAlignY=78&descSize=15&descColor=8ab4f8" width="100%"/>
 <br/><br/>
 
-<!-- TYPING — gold, professional lines only -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=D7BA89&center=true&vCenter=true&width=760&height=45&lines=Building+AI-powered+products+from+scratch;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Graph+Algorithms+%2B+Image+Analysis;%22Build+fast.+Think+deep.+Ship+clean.%22" alt="Typing SVG"/>
-<br/><br/>
 
 <!-- STATUS PILLS — minimal, dark, no emojis in label -->
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=flat-square&labelColor=020610&color=050d2e"/>
