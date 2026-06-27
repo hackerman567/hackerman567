@@ -9,9 +9,6 @@
 
 ![](https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=flat-square&labelColor=020610&color=050d2e)
 &nbsp;
-
-![](https://komarev.com/ghpvc/?username=hackerman567&color=050d2e&style=flat-square&label=PROFILE+VIEWS&labelColor=020610)
-&nbsp;
 ![](https://img.shields.io/badge/LeetCode-100%2B%20Solved-D7BA89?style=flat-square&labelColor=020610)
 
 </div>
@@ -94,13 +91,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerman567&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
 
 ## 💼 Experience
 
