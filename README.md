@@ -1,52 +1,23 @@
 <div align="center">
-<!-- BANNER — solid deep navy rect, no waves, clean title block -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020610,100:050d2e&height=200&text=Praveen%20R%20P&fontSize=72&fontColor=D7BA89&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%20%7C%20%20AI%20Systems%20Builder%20%20%7C%20%20Hackathon%20Athlete&descAlignY=78&descSize=15&descColor=8ab4f8" width="100%"/>
-<br/><br/>
 
-
-<!-- STATUS PILLS — minimal, dark, no emojis in label -->
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=flat-square&labelColor=020610&color=050d2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Coimbatore%2C%20India-8ab4f8?style=flat-square&labelColor=020610&color=0b1a5e"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=050d2e&style=flat-square&label=PROFILE+VIEWS&labelColor=020610"/>
-<br/><br/>
-
-<!-- THIN GOLD RULE — professional separator -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=1&duration=1&pause=999999&color=D7BA89&width=900&height=3&lines=_" width="80%"/>
-</div>
 <br/>
-<!-- ═══════════════════ WHO AM I ═══════════════════ -->
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td width="56%" valign="top">
-**`> whoami`**
 
-```js
-   ╔═══════════════════════════════════════════╗
-   ║         PRAVEEN R P  ·  v2025.06          ║
-   ╚═══════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=D7BA89&center=true&vCenter=true&width=700&height=40&lines=Building+AI-powered+products+from+scratch;React+%C2%B7+Node.js+%C2%B7+Flutter+%C2%B7+FastAPI+%C2%B7+Cloud;IEEE+Researcher+%7C+Graph+Algorithms+%2B+Image+Analysis;%22Build+fast.+Think+deep.+Ship+clean.%22"/>
 
-const PRAVEEN = {
-  name       : "Praveen R P",
-  role       : "Full-Stack + AI Developer",
-  degree     : "B.E. CSE  ·  Pre-Final Year",
-  status     : "Open to Internships  🤝",
+<br/>
 
-  motto : () => "Ship it.  Then make it elegant.",
-};
-```
-</td>
-<td width="2%"></td>
-<td width="42%" valign="middle" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="290"/>
-<br/><br/>
+![](https://img.shields.io/badge/STATUS-Open%20to%20Internships-D7BA89?style=flat-square&labelColor=020610&color=050d2e)
+&nbsp;
+![](https://img.shields.io/badge/LOCATION-Coimbatore%2C%20India-8ab4f8?style=flat-square&labelColor=020610&color=0b1a5e)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=050d2e&style=flat-square&label=PROFILE+VIEWS&labelColor=020610)
+&nbsp;
+![](https://img.shields.io/badge/LeetCode-100%2B%20Solved-D7BA89?style=flat-square&labelColor=020610)
 
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-D7BA89?style=flat-square&labelColor=020610"/>
-<br/><br/>
-</td>
-</tr>
-</table>
+</div>
+
 <br/>
 
 ---
