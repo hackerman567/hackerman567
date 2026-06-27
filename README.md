@@ -163,20 +163,6 @@ class Praveen:
 
 </div>
 
----
-
-## 🔬 Research
-
-<details>
-<summary><b>📄 Graph-Theoretic Approach to Nanoparticle Agglomeration Detection in SEM Imaging &nbsp;·&nbsp; IEEE Standard</b></summary>
-<br>
-
-> `Graph Algorithms` `Image Analysis` `Data Modelling` `Algorithmic Problem-Solving`
-
-- Presented at Research Conclave under IEEE standards — applied graph-theoretic methods to real-world SEM image data for nanoparticle agglomeration detection.
-- Demonstrated crossover between systems-level algorithmic thinking and applied data science.
-
-</details>
 
 ---
 
@@ -192,25 +178,12 @@ class Praveen:
 | 🎲 | **Gambling Mathematics Competition — BITS Pilani** | Applied combinatorics and probability in an algorithmic problem-solving challenge |
 | 🎤 | **Tamil Nadu Govt. Elocution Competition 2025** | **Winner** — demonstrated analytical reasoning and communication excellence |
 | 💻 | **LeetCode** | 100+ problems solved across DSA domains |
-| 📄 | **IEEE Research Publication** | Graph-theoretic approach to SEM image nanoparticle analysis |
-
 </div>
 
 ---
 
-## 🎓 Education & Currently Learning
-
-<div align="center">
-
-| Degree | Institution | Period |
-|---|---|---|
-| B.E. Computer Science & Engineering | PSG College of Technology, Coimbatore | 2024 – Present |
-| HSC (97.6%) · SSLC (98.8%) | National Model Group of Schools, Coimbatore | 2021 – 2024 |
-
-</div>
-
+## 🎓 Learning Progress
 <br>
-
 ```
 📚 Currently Learning
 ├── 🏗️  Data Structures & Algorithms  →  Advanced Trees, Graphs, DP, Segment Trees
@@ -227,8 +200,8 @@ class Praveen:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-24z254@psgtech.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:24z254@psgtech.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-PraveenRP2024-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PraveenRP2024)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenrp)
+[![GitHub](https://img.shields.io/badge/GitHub-PraveenRP2024-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hackerman567)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juvenprav06)
 
 > *"The best code is the code that solves a real problem elegantly — and ships."*
 
