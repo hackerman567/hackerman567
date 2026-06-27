@@ -114,7 +114,7 @@ class Praveen:
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PraveenRP2024&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=hackerman567&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -122,7 +122,7 @@ class Praveen:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenRP2024&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackerman567&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -130,7 +130,7 @@ class Praveen:
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenRP2024&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hackerman567&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -183,7 +183,6 @@ class Praveen:
 ---
 
 ## 🎓 Learning Progress
-<br>
 ```
 📚 Currently Learning
 ├── 🏗️  Data Structures & Algorithms  →  Advanced Trees, Graphs, DP, Segment Trees
@@ -200,7 +199,7 @@ class Praveen:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-24z254@psgtech.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:24z254@psgtech.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-PraveenRP2024-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hackerman567)
+[![GitHub](https://img.shields.io/badge/GitHub-hackerman567-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hackerman567)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juvenprav06)
 
 > *"The best code is the code that solves a real problem elegantly — and ships."*
