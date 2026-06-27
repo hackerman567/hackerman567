@@ -26,29 +26,15 @@
 **`> whoami`**
 
 ```js
-// ╔═══════════════════════════════════════════╗
-// ║         PRAVEEN R P  ·  v2025.06          ║
-// ╚═══════════════════════════════════════════╝
+   ╔═══════════════════════════════════════════╗
+   ║         PRAVEEN R P  ·  v2025.06          ║
+   ╚═══════════════════════════════════════════╝
 
 const PRAVEEN = {
   name       : "Praveen R P",
   role       : "Full-Stack + AI Developer",
-  college    : "PSG College of Technology",
   degree     : "B.E. CSE  ·  Pre-Final Year",
-  location   : "Coimbatore, Tamil Nadu  🇮🇳",
   status     : "Open to Internships  🤝",
-
-  shipping   : [
-    "EthicalEye      — AI Dark-Pattern Detector",
-    "PhantomEnergy   — Real-Time Leak Monitor",
-    "AirQualityNet   — CNN-LSTM Platform",
-  ],
-
-  learning   : [
-    "Advanced DSA + System Design",
-    "AWS Solutions Architect",
-    "RAG Pipelines + LLM Integration",
-  ],
 
   motto : () => "Ship it.  Then make it elegant.",
 };
